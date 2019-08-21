@@ -6,6 +6,6 @@ public class SampleTest {
 
    public static void main(String []args) {
       // Following statement would create an object myPuppy
-      SampleTest myPuppy = new SampleTest( "tommy" );
+      SampleTest myPuppy = new SampleTest( "Test" );
    }
 }
